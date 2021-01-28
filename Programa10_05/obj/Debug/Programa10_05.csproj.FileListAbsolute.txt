@@ -1,0 +1,8 @@
+C:\Users\Javier Arias\source\repos\WindowsFormsApplications\Programa10_05\bin\Debug\Programa10_05.exe.config
+C:\Users\Javier Arias\source\repos\WindowsFormsApplications\Programa10_05\bin\Debug\Programa10_05.exe
+C:\Users\Javier Arias\source\repos\WindowsFormsApplications\Programa10_05\bin\Debug\Programa10_05.pdb
+C:\Users\Javier Arias\source\repos\WindowsFormsApplications\Programa10_05\obj\Debug\Programa10_05.Form1.resources
+C:\Users\Javier Arias\source\repos\WindowsFormsApplications\Programa10_05\obj\Debug\Programa10_05.Properties.Resources.resources
+C:\Users\Javier Arias\source\repos\WindowsFormsApplications\Programa10_05\obj\Debug\Programa10_05.csproj.GenerateResource.cache
+C:\Users\Javier Arias\source\repos\WindowsFormsApplications\Programa10_05\obj\Debug\Programa10_05.exe
+C:\Users\Javier Arias\source\repos\WindowsFormsApplications\Programa10_05\obj\Debug\Programa10_05.pdb

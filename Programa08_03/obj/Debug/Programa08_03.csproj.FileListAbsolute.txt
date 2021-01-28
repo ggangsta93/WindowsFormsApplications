@@ -1,0 +1,9 @@
+C:\Users\Javier Arias\source\repos\WindowsFormsApplications\Programa08_03\bin\Debug\Programa08_03.exe.config
+C:\Users\Javier Arias\source\repos\WindowsFormsApplications\Programa08_03\bin\Debug\Programa08_03.exe
+C:\Users\Javier Arias\source\repos\WindowsFormsApplications\Programa08_03\bin\Debug\Programa08_03.pdb
+C:\Users\Javier Arias\source\repos\WindowsFormsApplications\Programa08_03\obj\Debug\Programa08_03.csprojAssemblyReference.cache
+C:\Users\Javier Arias\source\repos\WindowsFormsApplications\Programa08_03\obj\Debug\Programa08_03.Form1.resources
+C:\Users\Javier Arias\source\repos\WindowsFormsApplications\Programa08_03\obj\Debug\Programa08_03.Properties.Resources.resources
+C:\Users\Javier Arias\source\repos\WindowsFormsApplications\Programa08_03\obj\Debug\Programa08_03.csproj.GenerateResource.cache
+C:\Users\Javier Arias\source\repos\WindowsFormsApplications\Programa08_03\obj\Debug\Programa08_03.exe
+C:\Users\Javier Arias\source\repos\WindowsFormsApplications\Programa08_03\obj\Debug\Programa08_03.pdb

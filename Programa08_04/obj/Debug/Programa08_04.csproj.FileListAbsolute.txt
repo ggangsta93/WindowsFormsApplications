@@ -1,0 +1,14 @@
+C:\Users\Javier Arias\source\repos\WindowsFormsApplications\Programa08_04\bin\Debug\Programa08_04.exe.config
+C:\Users\Javier Arias\source\repos\WindowsFormsApplications\Programa08_04\bin\Debug\Programa08_04.exe
+C:\Users\Javier Arias\source\repos\WindowsFormsApplications\Programa08_04\bin\Debug\Programa08_04.pdb
+C:\Users\Javier Arias\source\repos\WindowsFormsApplications\Programa08_04\bin\Debug\Interop.WMPLib.dll
+C:\Users\Javier Arias\source\repos\WindowsFormsApplications\Programa08_04\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Javier Arias\source\repos\WindowsFormsApplications\Programa08_04\obj\Debug\Programa08_04.csprojAssemblyReference.cache
+C:\Users\Javier Arias\source\repos\WindowsFormsApplications\Programa08_04\obj\Debug\Interop.WMPLib.dll
+C:\Users\Javier Arias\source\repos\WindowsFormsApplications\Programa08_04\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Javier Arias\source\repos\WindowsFormsApplications\Programa08_04\obj\Debug\Programa08_04.csproj.ResolveComReference.cache
+C:\Users\Javier Arias\source\repos\WindowsFormsApplications\Programa08_04\obj\Debug\Programa08_04.Form1.resources
+C:\Users\Javier Arias\source\repos\WindowsFormsApplications\Programa08_04\obj\Debug\Programa08_04.Properties.Resources.resources
+C:\Users\Javier Arias\source\repos\WindowsFormsApplications\Programa08_04\obj\Debug\Programa08_04.csproj.GenerateResource.cache
+C:\Users\Javier Arias\source\repos\WindowsFormsApplications\Programa08_04\obj\Debug\Programa08_04.exe
+C:\Users\Javier Arias\source\repos\WindowsFormsApplications\Programa08_04\obj\Debug\Programa08_04.pdb
